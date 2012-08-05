@@ -37,7 +37,7 @@ set ofu=syntaxcomplete#Complete
 
 " clang_complete
 let g:clang_auto_select=1
-let g:clang_complete_auto = 0
+let g:clang_complete_auto = 1
 let g:clang_complete_copen = 0
 let g:clang_user_options = '-std=c++11 -stdlib=libc++'
 
