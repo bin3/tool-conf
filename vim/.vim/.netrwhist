@@ -1,4 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =3
 let g:netrw_dirhist_1='/Users/heihate/work/cpp-code/learn/scons/proj1/main'
 let g:netrw_dirhist_2='/Users/heihate/work/tool/gcc-4.7.0/INSTALL'
+let g:netrw_dirhist_3='/Users/heihate/work/tool/tool-conf/vim/.vim/plugin'
