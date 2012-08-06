@@ -41,5 +41,8 @@ let g:clang_complete_auto = 1
 let g:clang_complete_copen = 0
 let g:clang_user_options = '-std=c++11 -stdlib=libc++'
 
+" nerdtree
+nmap <F7> :NERDTreeToggle<CR>
+
 " tagbar
 nmap <F8> :TagbarToggle<CR>
