@@ -10,3 +10,6 @@
 [submodule "vim/.vim/bundle/clang_complete"]
 	path = vim/.vim/bundle/clang_complete
 	url = https://github.com/Rip-Rip/clang_complete.git
+[submodule "vim/.vim/bundle/nerdcommenter"]
+	path = vim/.vim/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
