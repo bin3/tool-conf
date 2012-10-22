@@ -46,3 +46,5 @@ nmap <F7> :NERDTreeToggle<CR>
 
 " tagbar
 nmap <F8> :TagbarToggle<CR>
+
+set mouse=a
